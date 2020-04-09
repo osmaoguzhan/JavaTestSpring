@@ -1,0 +1,14 @@
+INSERT INTO user VALUES (1,'Oguzhan', 'osma@gmail.com'); 
+INSERT INTO user VALUES (2,'Osma', 'osma@outlook.com'); 
+INSERT INTO product VALUES ('123456','Phone','iPhone X',1000,1); 
+INSERT INTO product VALUES ('123457','Computer','Monster Abra v5',800,2); 
+INSERT INTO product VALUES ('123458','Tablet','iPad',200,2); 
+INSERT INTO product VALUES ('123459','RAM','DDR4 16GB',90,2); 
+INSERT INTO product VALUES ('123451','Car','Renault Megan',5000,2); 
+INSERT INTO product VALUES ('123452','Table','Ikea',10,1); 
+INSERT INTO product VALUES ('123453','Jeans','Blue Jeans',9,1); 
+INSERT INTO product VALUES ('123454','GPU','NVIDIA GTX 1050',200,2); 
+INSERT INTO rates VALUES ('123456',5);
+INSERT INTO rates VALUES ('123456',7); 
+INSERT INTO rates VALUES ('123457',10);
+INSERT INTO rates VALUES ('123457',10); 
